@@ -1,7 +1,7 @@
 # meu-primeiro-app-dio
 Desafio de projeto da DIO: Criando um App Android com Suporte a Vários Idiomas.
 ```
-Aplicativo que mostra algumas reflexões da obra Dom Quixote de Miguel de Cervantes.
+Aplicativo que mostra algumas reflexões da obra "Dom Quixote" de Miguel de Cervantes.
 
 Cada vez que o aplicativo é reiniciado, uma reflexão aleatória (pré definida) é exibida para o usuário.
 
